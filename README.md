@@ -1,6 +1,6 @@
-Denis, St.Petersburg
-Interesting: ML/CV
-Learning: FastAPI
+Denis, St.Petersburg  
+Interesting: ML/CV  
+Learning: FastAPI  
 
 
 <!---
