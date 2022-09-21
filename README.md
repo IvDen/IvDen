@@ -1,6 +1,6 @@
 Denis, St.Petersburg  
 Interesting: ML/CV  
-Learning: FastAPI  
+Currently learning: Python/FastAPI  
 
 
 <!---
